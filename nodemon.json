@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "anushachokka",
+    "MONGO_PASSWORD": "Prad%402015",
+    "MONGO_DATABASE": "tasklist"
+  }
+}
